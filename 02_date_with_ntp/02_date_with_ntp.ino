@@ -3,7 +3,8 @@
 #include<WiFiUdp.h>
 
 #include <GxEPD.h>
-#include <GxGDEH029A1/GxGDEH029A1.cpp>      // 2.9" b/w
+#include <GxGDEP015OC1/GxGDEP015OC1.cpp>    // 1.54" b/w
+//#include <GxGDEH029A1/GxGDEH029A1.cpp>      // 2.9" b/w
 #include <GxIO/GxIO_SPI/GxIO_SPI.cpp>
 #include <GxIO/GxIO.cpp>
 #include <Fonts/FreeSansBold12pt7b.h>
